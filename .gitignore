@@ -20,5 +20,3 @@
 # Ignore backup files
 *~
 
-# Ignore lock files
-*.lock
